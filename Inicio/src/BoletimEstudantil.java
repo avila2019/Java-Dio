@@ -21,6 +21,8 @@ public class BoletimEstudantil {
             System.out.println("Aluno Aprovado");
             System.out.println(media);
         }
+
+        
         
 
     }
